@@ -28,11 +28,11 @@ export const Education = () => {
               <li key={id} className={styles.historyItem}>
                 <img
                   src={getImageUrl(historyItem.imageSrc)}
-                  alt={`${historyItem.organisation} Logo`}
+                  alt=""
                 />
                 <div className={styles.historyItemDetails}>
-                  <h3>{`${historyItem.role}, ${historyItem.organisation}`}</h3>
-                  <p>{`${historyItem.startDate} - ${historyItem.endDate}`}</p>
+                  <h3>{historyItem.role}</h3>
+                  <p>{historyItem.year}</p>
                   <ul>
                     {historyItem.Education.map((Education, id) => {
                       return <li key={id}>{Education}</li>;
