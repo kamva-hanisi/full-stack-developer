@@ -21,7 +21,7 @@
 
 .description {
   margin-top: 6px;
-  font-size: 25px;
+  font-size: 18px;
   font-weight: 400;
 }
 
@@ -39,7 +39,8 @@
   font-size: 25px;
   font-weight: 400;
   border-radius: 100px;
-  background: var(--color-dark);
+  /* border-style: groove; */
+  background: linear-gradient(267deg, #DA7C25 0.36%, #B923E1 106.06% );
   padding: 2px 22px;
 }
 

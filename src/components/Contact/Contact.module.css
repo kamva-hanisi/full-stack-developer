@@ -18,6 +18,13 @@
   letter-spacing: 4px;
 }
 
+.text h2 span{
+  background: linear-gradient(267deg, #DA7C25 0.36%, #B923E1 200.06% );
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
 .text p {
   font-size: 40px;
   font-weight: 400;

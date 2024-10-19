@@ -26,6 +26,10 @@
   -webkit-text-fill-color: transparent;
 }
 
+.content h1 span.Hoval{
+  transform: 0.3s;
+}
+
 .title {
   font-size: 54px;
   font-weight: 900;

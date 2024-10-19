@@ -1,25 +1,25 @@
 [
   {
-    "title": "Project A",
+    "title": "GLOBAL-FLY",
     "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
+    "description": "Global-fly developed a web application focused on facilitating travel bookings, providing users with an intuitive interface to search and reserve accommodations.",
     "skills": ["React", "Express", "Node"],
     "demo": "https://www.example.com",
     "source": "https://www.github.com"
   },
   {
-    "title": "Project B",
+    "title": "TRAVEL-PULSE",
     "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node", "Sass"],
+    "description": "Travel Pulse is a cutting-edge digital eSIM app that provides seamless connectivity for travelers worldwide. The platform allows users to activate mobile data plans instantly, eliminating the hassle of traditional SIM cards and ensuring reliable communication during their journeys.",
+    "skills": ["React", "Express", "Node.js", "Next.js", "MySQL", "CSS"],
     "demo": "https://www.example.com",
     "source": "https://www.github.com"
   },
   {
-    "title": "Project C",
+    "title": "AirBnB_clone_v4",
     "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
+    "description": "AirBnB_clone Is a web-based application designed to simulate key functionalities of the popular AirBnB platform. It allows users to browse and book accommodations, including bedrooms, guest capacity, and bathrooms, making it ideal for managing short-term rental bookings.",
+    "skills": ["JavaScript", "HTML", "CSS", "Shell scripting"],
     "demo": "https://www.example.com",
     "source": "https://www.github.com"
   }
