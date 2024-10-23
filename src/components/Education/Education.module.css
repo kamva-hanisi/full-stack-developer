@@ -93,6 +93,7 @@
   font-weight: 300;
 }
 
+
 .historyItemDetails ul {
   margin-top: 6px;
   list-style-position: inside;
@@ -118,4 +119,26 @@
     width: 100%;
     gap: 9px;
   }
+}
+
+.certificateBtn {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding-bottom: 50px;
+  margin-left: 40%;
+  margin-right: 40%;
+  gap: 20px;
+  background: #19376d;
+  background: linear-gradient(90deg, #19376d 0%, rgba(25, 55, 109, 0) 100%);
+  border-radius: 10px;
+  padding: 24px;
+  width: 45%;
+}
+
+.certificateBtn a{
+  color: var(--color-text);
+  font-size: 30px;
+  font-weight: 500;
 }

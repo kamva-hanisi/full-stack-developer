@@ -10,10 +10,5 @@
     "year": "2023 - 2024",
     "Education": ["Full-stack Developer"],
     "imageSrc": "history/alx.jpg"
-  },
-  {
-    "role": "ALX-CERTIFICATE",
-    "Education": ["kay"],
-    "imageSrc": "history/man.jpg"
   }
 ]
