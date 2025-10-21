@@ -6,9 +6,15 @@
     "imageSrc": "history/richard.png"
   },
   {
-    "role": "ALX Software Engineering",
+    "role": "ALX (powered by Holberton Inc)",
     "year": "2023 - 2024",
     "Education": ["Full-stack Developer"],
+    "imageSrc": "history/alx.jpg"
+  },
+   {
+    "role": "Udemy (online learning platform)",
+    "year": "2025",
+    "Education": ["Software Developer (C#, .NET Core, ASP.NET Core, EF Core)"],
     "imageSrc": "history/alx.jpg"
   }
 ]
