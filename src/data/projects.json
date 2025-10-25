@@ -1,11 +1,11 @@
 [
   {
-    "title": "GLOBAL-FLY",
-    "imageSrc": "projects/project.png",
-    "description": "Global-fly developed a web application focused on facilitating travel bookings, providing users with an intuitive interface to search and reserve accommodations.",
+    "title": "NestWise-Properties",
+    "imageSrc": "projects/Nest.png",
+    "description": "NestWise-Properties developed a web application focused on facilitating travel bookings, providing users with an intuitive interface to search and reserve accommodations.",
     "skills": ["HTML", "CSS", "JavaScript"],
-    "demo": "https://kamva-hanisi.github.io/Global-fly/",
-    "source": "https://github.com/kamva-hanisi/Global-fly"
+    "demo": "https://kamva-hanisi.github.io/NestWise-Properties/",
+    "source": "https://github.com/kamva-hanisi/NestWise-Properties"
   },
   {
     "title": "TRAVEL-PULSE",
@@ -16,11 +16,11 @@
     "source": "https://github.com/InnoSoft-Ventures/travel-pulse"
   },
   {
-    "title": "AirBnB_clone_v4",
-    "imageSrc": "projects/project.png",
-    "description": "AirBnB_clone Is a web-based application designed to simulate key functionalities of the popular AirBnB platform. It allows users to browse and book accommodations, including bedrooms, guest capacity, and bathrooms, making it ideal for managing short-term rental bookings.",
-    "skills": ["JavaScript", "HTML", "CSS", "Python", "Shell scripting"],
-    "demo": "https://kamva-hanisi.github.io/AirBnB_clone_v4/",
-    "source": "https://github.com/kamva-hanisi/AirBnB_clone_v4"
+    "title": "Weather-App",
+    "imageSrc": "projects/weather.png",
+    "description": "Weather-App is a web-based application designed to provide users with real-time weather information and forecasts. It allows users to search for weather updates by location, view current conditions, and access extended forecasts.",
+    "skills": ["JavaScript", "HTML", "CSS"],
+    "demo": "https://kamva-hanisi.github.io/Weather-App/",
+    "source": "https://github.com/kamva-hanisi/Weather-App"
   }
 ]

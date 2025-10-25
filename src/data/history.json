@@ -2,19 +2,19 @@
   {
     "role": "Richard Varha High School",
     "year": "2015 - 2021",
-    "Education": ["Schooling Engeneeing"],
+    "Education": ["Engeneering Studies"],
     "imageSrc": "history/richard.png"
   },
   {
     "role": "ALX (powered by Holberton Inc)",
     "year": "2023 - 2024",
     "Education": ["Full-stack Developer"],
-    "imageSrc": "history/alx.jpg"
+    "imageSrc": "history/alx.png"
   },
    {
     "role": "Udemy (online learning platform)",
     "year": "2025",
     "Education": ["Software Developer (C#, .NET Core, ASP.NET Core, EF Core)"],
-    "imageSrc": "history/alx.jpg"
+    "imageSrc": "history/udemy.png"
   }
 ]

@@ -8,11 +8,39 @@
     "imageSrc": "skills/css.png"
   },
   {
+    "title": "JavaScript",
+    "imageSrc": "skills/JS.png"
+  },
+  {
     "title": "React",
     "imageSrc": "skills/react.png"
   },
   {
-    "title": "Node",
+    "title": "TypeScript",
+    "imageSrc": "skills/TS.png"
+  },
+  {
+    "title": "Next.js",
+    "imageSrc": "skills/react.png"
+  },
+  {
+    "title": "C#",
+    "imageSrc": "skills/C-Sharp.png"
+  },
+   {
+    "title": ".NET Core",
+    "imageSrc": "skills/dotnetcore.png"
+  },
+  {
+    "title": "ASP.NET Core",
+    "imageSrc": "skills/aspnetcore.png"
+  },
+  {
+    "title": "EF Core",
+    "imageSrc": "skills/efcore.png"
+  },
+  {
+    "title": "Node.js",
     "imageSrc": "skills/node.png"
   },
   {
@@ -20,15 +48,23 @@
     "imageSrc": "skills/python.png"
   },
   {
+    "title": "MySQL",
+    "imageSrc": "skills/mysql.png"
+  },
+  {
+    "title": "Express.js",
+    "imageSrc": "skills/express.png"
+  },
+  {
+    "title": "Figma",
+    "imageSrc": "skills/figma.png"
+  },
+  {
     "title": "Control(Git)",
+    "imageSrc": "skills/git.png"
+  },
+   {
+    "title": "Control(GitHub)",
     "imageSrc": "skills/github.png"
-  },
-  {
-    "title": "Database",
-    "imageSrc": "skills/database.png"
-  },
-  {
-    "title": "API",
-    "imageSrc": "skills/api.png"
   }
 ]

@@ -20,6 +20,7 @@ export const Education = () => {
             );
           })}
         </div>
+        <div className={styles.divider} />
         <ul className={styles.history}>
           {history.map((historyItem, id) => {
             return (
@@ -39,11 +40,6 @@ export const Education = () => {
             );
           })}
         </ul>
-      </div>
-      <div className={styles.certificateBtn}>
-        <a href="https://drive.google.com/file/d/1BR8bsVK33j-f_OVJel8-Uxojqr_FLo06/view?usp=sharing">
-          ALX-Cetificate
-        </a>
       </div>
     </section>
   );

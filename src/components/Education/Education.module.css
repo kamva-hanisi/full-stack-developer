@@ -26,7 +26,7 @@
   width: 45%;
   display: flex;
   flex-wrap: wrap;
-  gap: 37px;
+  gap: 20px;
 }
 
 .skill {
@@ -52,6 +52,56 @@
 }
 
 .skill p {
+  font-size: 25px;
+  font-family: var(--font-roboto);
+  font-weight: 500;
+}
+
+.divider {
+  width: 3px;
+  background-color: var(--color-secondary);
+  border-radius: 10px;
+  margin-top: 30px;
+}
+
+.tools {
+  width: 45%;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+}
+
+.toolTitle {
+  color: var(--color-text);
+  font-size: 35px;
+  font-weight: 700;
+  letter-spacing: 1.75px;
+  text-transform: uppercase;
+}
+
+.tool {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 11px;
+}
+
+.toolImageContainer {
+  margin-top: 30px;
+  background-color: var(--color-secondary);
+  border-radius: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 120px;
+  height: 120px;
+}
+
+.toolImageContainer img {
+  width: 75px;
+}
+
+.tool p {
   font-size: 25px;
   font-family: var(--font-roboto);
   font-weight: 500;
@@ -109,6 +159,11 @@
   }
 
   .skills {
+    width: 100%;
+    flex-direction: row;
+    justify-content: center;
+  }
+  .tools {
     width: 100%;
     flex-direction: row;
     justify-content: center;
