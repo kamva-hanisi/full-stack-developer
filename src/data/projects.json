@@ -9,7 +9,7 @@
   },
   {
     "title": "TRAVEL-PULSE",
-    "imageSrc": "projects/project.png",
+    "imageSrc": "projects/travel.jpeg",
     "description": "Travel Pulse is a cutting-edge digital eSIM app that provides seamless connectivity for travelers worldwide. The platform allows users to activate mobile data plans instantly, eliminating the hassle of traditional SIM cards and ensuring reliable communication during their journeys.",
     "skills": ["React", "Express", "Node.js", "Next.js", "MySQL", "CSS"],
     "demo": "https://www.example.com",
@@ -22,5 +22,13 @@
     "skills": ["JavaScript", "HTML", "CSS"],
     "demo": "https://kamva-hanisi.github.io/Weather-App/",
     "source": "https://github.com/kamva-hanisi/Weather-App"
+  },
+  {
+    "title": "Contact-Book",
+    "imageSrc": "projects/book.png",
+"description": "Contact Book — A console-based application built with C# to manage and organize contact information. It features functionality for adding, searching, and updating contacts, implemented through OOP concepts like classes, properties, and methods. This project emphasizes code reusability, modular design, and robust input validation using C# standard libraries and collections.",
+    "skills": ["C#", "OOP", "Console Application"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/kamva-hanisi/Contact-Book"
   }
 ]
